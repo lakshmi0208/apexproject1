@@ -1,0 +1,6 @@
+ how to add repository 
+add repository in github
+clone repository in clinent side by run cmmd git clone past copied url
+stay inside repository.how can check by run ls -la if we see .git that means we r in repository
+create directory by mkdir dirname.add files into it .
+now push directory or files into repository by git push 
