@@ -1,6 +1,0 @@
- how to add branch in github?
-by run command git branch branch name
-how to chcek how many branches in project?
-by run command git branch -a
-how to switch branches or how to go to master ?
-by run command git checkout branch name/master 
